@@ -1,8 +1,14 @@
 ---
 layout: post
-title:  "Fairmount Pizza"
-date:   2014-01-05 20:13:29
-categories: jekyll update
+title: Fairmount Pizza
+description: "The first of many pizza adventures."
+modified: 2013-01-05
+category: articles
+tags: [fairmount pizza]
+image:
+  feature: large_pizza.jpg
+comments: true
+share: true
 ---
 
 <p>
