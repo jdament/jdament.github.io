@@ -1,7 +1,7 @@
 title:            Pizzadelphia
 description:      Three dudes reviewing pizza in Philadelphia
 logo:             slice.jpg
-disqus_shortname: 
+disqus_shortname: pizzadelphia
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://pizzadelphia.com
